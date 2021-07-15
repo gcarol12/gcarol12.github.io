@@ -2,15 +2,45 @@ body
 {
     color:deepskyblue;
     text-align: center;
+<<<<<<< HEAD
     font-family: "calibri";
+=======
+    font-family: "arial";
+>>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
 #container
 {
     width: 70%;
     padding: 1em;
+=======
+
+#cabecera
+{
+    background: #33a;
+    box-shadow: 0px 5px 50px 0px rgba(0,0,0,0,0.5);
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em ;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 0;
+>>>>>>> cabecera
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
@@ -19,4 +49,9 @@ body
 #container h1
 {
     font-size: 20px;
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> cabecera
